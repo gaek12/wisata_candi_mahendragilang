@@ -1,4 +1,5 @@
-import 'package: flutter/material.dart';
+import 'package:flutter/material.dart';
+import 'package:wisata_candi/models/candi.dart';
 
 class ItemCard extends StatelessWidget {
   // TODO : 1. Deklarasikan variabel yg dibutuhkan dan pasang pada konstruktor

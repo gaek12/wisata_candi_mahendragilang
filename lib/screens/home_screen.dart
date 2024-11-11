@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:wisata_candi/data/candi_data.dart';
-import 'package:wisata_candi_/widgets/item_card.dart';
+import 'package:wisata_candi/widgets/item_card.dart';
 import 'package:wisata_candi/models/candi.dart';
 
 class HomeScreen extends StatefulWidget {
